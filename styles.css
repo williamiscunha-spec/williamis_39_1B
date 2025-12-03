@@ -8,11 +8,11 @@ header {
     padding: 20px;
     font-size: 32px;
     color: black;
-    background: #694843;
+    background: #694365;
 }
 
 .chamada {
-    background: bisque;
+    background: rgb(255, 196, 196);
     padding-bottom: 100px;
     padding-top: 100px;
     display: flex;
